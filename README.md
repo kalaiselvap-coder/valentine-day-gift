@@ -45,4 +45,4 @@ A fun, interactive React application designed to prank your special someone on V
 - **Text**: Update the messages in `src/App.jsx` to personalize the name and prank text.
 - **Images**: You can swap the favicon in `public/heart.svg`.
 
-Enjoy pranking! 💖😂
+Enjoy pranking! 💖😂 
